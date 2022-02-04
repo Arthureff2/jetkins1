@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T11:41:21.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.27 (Edition Yx 05)" etag="YPcxo3iDPsU6Q-6DU626" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T11:53:09.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.27 (Edition Yx 05)" etag="bWjX4qbSQQ-tlDJ4Luhm" version="16.5.3" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1455" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FzbhmMPE28zbG0T219BD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2100" y="663.0263157894738" as="targetPoint" />
+            <mxPoint x="2090" y="663.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="642" width="250" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="696" width="250" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="7d933b09d9755ecc-14" value="АгроИнвест" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="200" width="530" height="537" as="geometry" />
+          <mxGeometry x="1070" y="187.25" width="530" height="537" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-12" value="АКСУАГРО" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="400" y="92" width="286" height="340" as="geometry" />
@@ -82,8 +94,17 @@
         <mxCell id="FzbhmMPE28zbG0T219BD-11" value="RDP &lt;br&gt;89.232.91.122:7189" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="395" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FzbhmMPE28zbG0T219BD-12" target="FzbhmMPE28zbG0T219BD-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="513" />
+              <mxPoint x="1440" y="440" />
+              <mxPoint x="1346" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FzbhmMPE28zbG0T219BD-12" value="гипервизор" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="533" width="290" height="220" as="geometry" />
+          <mxGeometry x="1320" y="513" width="290" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FzbhmMPE28zbG0T219BD-13" value="VMware EXI&lt;br&gt;192.168.0.58" style="whiteSpace=wrap;html=1;" vertex="1" parent="FzbhmMPE28zbG0T219BD-12">
           <mxGeometry x="95" y="40" width="100" height="40" as="geometry" />
@@ -115,14 +136,17 @@
         <mxCell id="FzbhmMPE28zbG0T219BD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzbhmMPE28zbG0T219BD-21" target="7d933b09d9755ecc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzbhmMPE28zbG0T219BD-25" target="FzbhmMPE28zbG0T219BD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FzbhmMPE28zbG0T219BD-25" value="Сервер Агроивнвест 192.168.0.200" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1097" y="530" width="200" height="203" as="geometry" />
         </mxCell>
         <mxCell id="FzbhmMPE28zbG0T219BD-21" value="сервер агроинвест&lt;br&gt;(контроллер домена, архивы, базы 1с агроинвест Бух зуп&lt;br&gt;Нурлат головей&lt;br&gt;Закамье&lt;br&gt;ГК Агроинвест&lt;br&gt;мюд&lt;br&gt;рассвет&lt;br&gt;продагро" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FzbhmMPE28zbG0T219BD-25">
           <mxGeometry x="13" y="72.5" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzbhmMPE28zbG0T219BD-28" value="домен agroinvrst.corp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="416" width="60" height="30" as="geometry" />
+        <mxCell id="FzbhmMPE28zbG0T219BD-28" value="домен agroinvest.corp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="459.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzbhmMPE28zbG0T219BD-31" value="RDP &lt;br&gt;178.205.142.4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="378" width="140" height="30" as="geometry" />
@@ -133,8 +157,32 @@
         <mxCell id="FzbhmMPE28zbG0T219BD-33" value="1с бух зуп&amp;nbsp;&lt;br&gt;пк зерно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="779" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzbhmMPE28zbG0T219BD-34" value="&lt;h1&gt;login SadminAgro&lt;/h1&gt;&lt;div&gt;pass P@2sw00rd&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="480" width="300" height="120" as="geometry" />
+        <mxCell id="FzbhmMPE28zbG0T219BD-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="432" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-34" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;login: SadminAgro&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;pass P@2sw00rd&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="472" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-36" value="ИТС 1с agroinvest: login&amp;nbsp; arthure&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; pass Fall2006" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="695" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-37" value="Логин администратора на всех серверах и Microtik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="435" width="240" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-35" value="ИТС 1с на заводе: login&amp;nbsp; 800519703&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;pass 800519703z" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="649" width="200" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="562" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-38" value="на vmware 192.168.0.58&amp;nbsp;&lt;br&gt;login: root&lt;br&gt;pass: Fall20Fa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="562" width="180" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1845" y="770" width="255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-46" value="почта mail.ru&lt;br&gt;администратор почты it@ykagroinvest.com пароль Fall2006++" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="789.5" width="230" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T11:19:38.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.27 (Edition Yx 05)" etag="K7aqR0mizAsWSlf0GyPx" version="16.5.3" type="github"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-04T11:41:21.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.27 (Edition Yx 05)" etag="YPcxo3iDPsU6Q-6DU626" version="16.5.3" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="1455" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7d933b09d9755ecc-14" value="АгроИнвест" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="200" width="530" height="537" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-12" value="АКСУАГРО" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="400" y="92" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-13" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="433.5" y="323" width="142" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.file_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1219" y="533" width="71" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-6" value="1с&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="473" y="345" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="510.5" y="219.5" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-18" value="нур сахар завод&lt;br&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="76" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1614" y="292.5" width="142" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-20" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="310" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-21" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1691" y="177" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-31" value="Нур элевтор" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="471" y="489.5" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-32" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="556" y="711" width="142" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-33" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="594" y="724" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-34" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="575.5" y="589" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-1" value="RDP &lt;br&gt;89.232.91.190:7189" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="395" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-2" value="Агрофирма южная" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="698" y="92" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-3" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="731.5" y="323" width="142" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-4" value="1с&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="771" y="345" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="808.5" y="219.5" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-6" value="RDP &lt;br&gt;89.232.91.114:7189" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="848" y="395" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-7" value="КФХ Сулейманов А.И.&lt;br&gt;&lt;br&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="92" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-8" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="133.5" y="323" width="142" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-9" value="1с&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="172.25" y="323" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="219.5" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzbhmMPE28zbG0T219BD-11" target="FzbhmMPE28zbG0T219BD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-11" value="RDP &lt;br&gt;89.232.91.122:7189" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="395" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-12" value="гипервизор" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="533" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-13" value="VMware EXI&lt;br&gt;192.168.0.58" style="whiteSpace=wrap;html=1;" vertex="1" parent="FzbhmMPE28zbG0T219BD-12">
+          <mxGeometry x="95" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-14" value="KASP 192.168.0.192&lt;br&gt;сервер касперского endpoint&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FzbhmMPE28zbG0T219BD-12">
+          <mxGeometry x="20" y="130" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="FzbhmMPE28zbG0T219BD-12" source="FzbhmMPE28zbG0T219BD-13" target="FzbhmMPE28zbG0T219BD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-16" value="КЦ Южная&lt;br&gt;192.168.0.191&lt;br&gt;база 1с БУХ, ЗУП" style="whiteSpace=wrap;html=1;" vertex="1" parent="FzbhmMPE28zbG0T219BD-12">
+          <mxGeometry x="170" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="FzbhmMPE28zbG0T219BD-12" source="FzbhmMPE28zbG0T219BD-13" target="FzbhmMPE28zbG0T219BD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FzbhmMPE28zbG0T219BD-12" source="FzbhmMPE28zbG0T219BD-14" target="FzbhmMPE28zbG0T219BD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-18" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.netscaler_vpx;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="309" width="97" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-19" value="Microtic 192.168.0.244" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1316" y="274" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzbhmMPE28zbG0T219BD-21" target="7d933b09d9755ecc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzbhmMPE28zbG0T219BD-21" target="7d933b09d9755ecc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-25" value="Сервер Агроивнвест 192.168.0.200" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="530" width="200" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-21" value="сервер агроинвест&lt;br&gt;(контроллер домена, архивы, базы 1с агроинвест Бух зуп&lt;br&gt;Нурлат головей&lt;br&gt;Закамье&lt;br&gt;ГК Агроинвест&lt;br&gt;мюд&lt;br&gt;рассвет&lt;br&gt;продагро" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FzbhmMPE28zbG0T219BD-25">
+          <mxGeometry x="13" y="72.5" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-28" value="домен agroinvrst.corp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="416" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-31" value="RDP &lt;br&gt;178.205.142.4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="378" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-32" value="RDP &lt;br&gt;178.205.143.115" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617" y="799.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-33" value="1с бух зуп&amp;nbsp;&lt;br&gt;пк зерно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="779" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzbhmMPE28zbG0T219BD-34" value="&lt;h1&gt;login SadminAgro&lt;/h1&gt;&lt;div&gt;pass P@2sw00rd&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="480" width="300" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
